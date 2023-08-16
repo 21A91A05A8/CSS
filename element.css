@@ -1,0 +1,15 @@
+p{
+	color: red;
+	font-size: 20px;
+	font-family: cursive;
+}
+div h3{
+	height: 100px;
+	width: 100px;
+	background-color: lightcyan;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: lavender;
+}

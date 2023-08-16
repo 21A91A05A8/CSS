@@ -1,0 +1,11 @@
+*{
+	background-color: lightyellow;
+	font-family: cursive;
+	font-size: 20px;
+	color: red;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: lightseagreen;
+}

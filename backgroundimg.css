@@ -1,0 +1,14 @@
+body{
+	background-image: url('pic10.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bg{
+	height: 100px;
+	width:100px;
+	background-image: url('pic11.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: cursive;
+	border: 1px solid skyblue;
+}
